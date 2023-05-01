@@ -27,3 +27,7 @@
     width: 100%;
     clear: both;
 }
+
+.active {
+    background: blue;
+}
